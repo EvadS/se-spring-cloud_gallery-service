@@ -1,4 +1,4 @@
-package com.example.securityservice.security;
+package com.example.secure.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;

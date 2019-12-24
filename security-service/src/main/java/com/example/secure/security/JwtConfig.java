@@ -1,4 +1,4 @@
-package com.example.securityservice.security;
+package com.example.secure.security;
 
 import lombok.Getter;
 import lombok.ToString;

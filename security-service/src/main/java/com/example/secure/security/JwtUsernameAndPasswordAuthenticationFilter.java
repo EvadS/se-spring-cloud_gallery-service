@@ -1,4 +1,4 @@
-package com.example.securityservice.security;
+package com.example.secure.security;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

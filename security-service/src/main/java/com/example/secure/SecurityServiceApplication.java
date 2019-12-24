@@ -1,4 +1,4 @@
-package com.example.securityservice;
+package com.example.secure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
